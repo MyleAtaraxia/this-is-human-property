@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "ask": ["Edit", "Write", "MultiEdit", "NotebookEdit"],
+    "deny": [
+      "Edit(third_party/**)", "Write(third_party/**)",
+      "Bash(git commit:*)", "Bash(git push:*)", "Bash(git reset:*)", "Bash(git checkout:*)", "Bash(git clean:*)",
+      "Bash(rm:*)", "Bash(del:*)", "Bash(rmdir:*)"
+    ]
+  }
+}
