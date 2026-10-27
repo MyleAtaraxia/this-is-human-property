@@ -24,7 +24,7 @@ This is a hand-written engine. The human writes the code. Agents are assistants 
 - No multi-file edits, refactors, renames, or "cleanups" across the codebase.
 - No rewriting, reformatting, or reorganizing code you were not asked to change.
 - No adding dependencies. No editing build files, CI, or configs.
-- Do not edit anything under `third_party/`.
+- Do not edit anything under vendor folders like `third_party/`.
 - No running or creating autonomous multi-step plans, loops, or sub-agents that write code.
 - No git commits, pushes, branch changes, or destructive commands (delete, reset, force).
 - No generating boilerplate or scaffolding "to save time".
