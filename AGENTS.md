@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This is a hand-written engine. The human writes the code. Agents are assistants for research and small edits, nothing more.
+This is a hand-written project. The human writes the code. Agents are assistants for research and small edits, nothing more.
 
 ## Allowed
 
